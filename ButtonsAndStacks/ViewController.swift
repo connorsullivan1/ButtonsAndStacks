@@ -28,6 +28,7 @@ class ViewController: UIViewController {
             colorLabel.text = ""
         }
         
+        
 //        if sender.tag == 1000 {
 //                        colorLabel.text = ""
 //        } else {
